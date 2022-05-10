@@ -18,6 +18,7 @@ public class AppiumTest {
 		
 		
 		System.out.println("MobielIOS");
+		System.out.println("git add");
 		
 		
 }
